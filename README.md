@@ -6,7 +6,7 @@ I am a senior majoring in Computer Engineering at UCSD. My interests are mainly 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,androidstudio,vscode" /> <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,js,matlab,py,r" />
 </p>
 
