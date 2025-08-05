@@ -12,6 +12,14 @@ Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate ab
 
 ---
 
+## Featured Projects
+
+Habitizer: A timed to-do list Android app designed in Android Studio as part of a 6-person team
+
+Foody (In Progress)
+
+---
+
 <div align="center">
   <a href="mailto:emma.dunmire@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
