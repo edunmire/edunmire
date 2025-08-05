@@ -2,14 +2,17 @@
 
 I am a senior majoring in Computer Engineering at UCSD. My interests are mainly geared towards ML/AI and web/app development. However, I am always open to learning and trying new projects.
 
-# Programming Languages
-Python, Java, C, C++, JavaScript, HTML, CSS, R, Matlab, Verilog
+# Languages / Tools
+<br>
 
-# Frameworks / Tools
-React, Express, Node.js, MongoDB, Git, VS Code, Numpy, Pandas, Juypter
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,js,matlab,py,r" />
+</p>
 
-# Contact Info
-<div>
+<hr>
+
+<div align="center">
   <a href="emma.dunmire@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
