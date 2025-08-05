@@ -1,6 +1,6 @@
-## Hello 🤠
+# Emma Dunmire - UCSD Undergraduate
 
-I am a senior majoring in Computer Engineering at UCSD. My interests are mainly geared towards ML/AI and web/app development. However, I am always open to learning and trying new projects.
+Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate about building innovative solutions at the intersection of **machine learning**, **software engineering**, and **web/app development**. While I’m especially interested in ML/AI and full-stack projects, I’m always eager to learn new technologies and take on exciting technical challenges — from hardware design to backend development.
 
 # Languages & Tools
 <br>
@@ -13,10 +13,10 @@ I am a senior majoring in Computer Engineering at UCSD. My interests are mainly 
 <hr>
 
 <div align="center">
-  <a href="emma.dunmire@gmail.com">
+  <a href="mailto:emma.dunmire@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/emmadunmire">
+  <a href="https://www.linkedin.com/in/emmadunmire">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
