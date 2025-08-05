@@ -2,12 +2,12 @@
 
 I am a senior majoring in Computer Engineering at UCSD. My interests are mainly geared towards ML/AI and web/app development. However, I am always open to learning and trying new projects.
 
-# Languages / Tools
+# Languages & Tools
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,androidstudio,vscode" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,js,matlab,py,r" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,react,mongodb,androidstudio,vscode" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,js,matlab,py,java,r" />
 </p>
 
 <hr>
