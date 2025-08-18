@@ -6,8 +6,8 @@ Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate ab
 
 ## Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,react,mongodb,androidstudio,vscode" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,matlab,py,java,r" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,react,androidstudio,vscode" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,matlab,py,java" />
 </p>
 
 ---
