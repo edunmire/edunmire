@@ -16,6 +16,8 @@ Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate ab
 
 LILAC: A custom designed and developed mini-ISA to meet a 9-bit machine code and 8-bit data path requirement
 
+California Cafe Recommedation: ML implementation of a California cafe recommendation system that recommends based on user's historical ratings
+
 Habitizer: A timed to-do list Android app designed in Android Studio as part of a 6-person team
 
 ---
