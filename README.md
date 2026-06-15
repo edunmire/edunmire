@@ -1,6 +1,6 @@
 # Emma Dunmire - Computer Engineering @ UCSD
 
-Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate about building innovative solutions at the intersection of **machine learning**, **software engineering**, and **web/app development**. While I’m especially interested in ML/AI and full-stack projects, I’m always eager to learn new technologies and take on exciting technical challenges — from hardware design to backend development.
+Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate about building innovative solutions at the intersection of **machine learning**, **software engineering**, and **hardware design**. Though I'm always open to new projects and topics :)
 
 ---
 
@@ -14,9 +14,9 @@ Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate ab
 
 ## Featured Projects
 
-Habitizer: A timed to-do list Android app designed in Android Studio as part of a 6-person team
+LILAC: A custom designed and developed mini-ISA to meet a 9-bit machine code and 8-bit data path requirement
 
-Foody (In Progress)
+Habitizer: A timed to-do list Android app designed in Android Studio as part of a 6-person team
 
 ---
 
