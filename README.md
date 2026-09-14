@@ -1,32 +1,37 @@
-# Emma Dunmire - Computer Engineering @ UCSD
+# Emma Dunmire
 
-Hello, I am a senior majoring in Computer Engineering at UCSD. I'm passionate about building innovative solutions at the intersection of **machine learning**, **software engineering**, and **hardware design**. Though I'm always open to new projects and topics :)
+Computer Engineering M.S. student at UC San Diego with interests in computer architecture, digital design, hardware/software systems, and machine learning.
 
----
+Currently conducting research in optical circuit-switched networks, focusing on scheduling algorithms, partial reconfiguration, and communication performance for AI workloads.
 
-## Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,react,androidstudio,vscode" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,matlab,py,java" />
-</p>
+## Projects
 
----
+### LILAC — Custom Processor Architecture
 
-## Featured Projects
+**Verilog | Computer Architecture | RTL Design**
 
-LILAC: A custom designed and developed mini-ISA to meet a 9-bit machine code and 8-bit data path requirement
+Designed and implemented a custom processor architecture in Verilog, including the ALU, register file, control logic, instruction and data memory, and datapath. Designed the ISA under constrained instruction and data widths and verified the processor through simulation and synthesis.
 
-California Cafe Recommedation: ML implementation of a California cafe recommendation system that recommends based on user's historical ratings
+### California Cafe Recommendation System
 
-Habitizer: A timed to-do list Android app designed in Android Studio as part of a 6-person team
+**Python | Machine Learning**
 
----
+Developed a personalized recommendation system using Google Local review data and user-item interaction patterns. Evaluated multiple recommendation models and similarity methods.
 
-<div align="center">
-  <a href="mailto:emma.dunmire@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/emmadunmire">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+## Technical Skills
+
+**Languages:** Python, C/C++, SystemVerilog, Verilog, Java, MATLAB, R
+**Hardware & Systems:** Computer Architecture, RTL Design, Digital Logic, VLSI
+**ML & Computing:** PyTorch, scikit-learn, NumPy, pandas
+**Tools:** Git, Linux, Docker, Jupyter, Cadence Virtuoso, Quartus
+
+## Education
+
+**University of California, San Diego**
+M.S. Computer Engineering, 2026–2027
+B.S. Computer Engineering, 2022–2026
+ECE Award for Excellence | Magna Cum Laude
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/emmadunmire) | [Email](mailto:emma.dunmire@gmail.com)
