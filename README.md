@@ -18,21 +18,14 @@ Designed and implemented a custom processor architecture in Verilog, including t
 
 Developed a personalized recommendation system using Google Local review data and user-item interaction patterns. Evaluated multiple recommendation models and similarity methods.
 
-## Technical Skills
-
-**Languages:** Python, C/C++, SystemVerilog, Verilog, Java, MATLAB, R
-
-**Hardware & Systems:** Computer Architecture, RTL Design, Digital Logic, VLSI
-
-**ML & Computing:** PyTorch, scikit-learn, NumPy, pandas
-
-**Tools:** Git, Linux, Docker, Jupyter, Cadence Virtuoso, Quartus
-
 ## Education
 
 **University of California, San Diego**
+
 M.S. Computer Engineering, 2026–2027
+
 B.S. Computer Engineering, 2022–2026
+
 ECE Award for Excellence | Magna Cum Laude
 
 ## Contact
