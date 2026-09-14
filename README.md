@@ -21,8 +21,11 @@ Developed a personalized recommendation system using Google Local review data an
 ## Technical Skills
 
 **Languages:** Python, C/C++, SystemVerilog, Verilog, Java, MATLAB, R
+
 **Hardware & Systems:** Computer Architecture, RTL Design, Digital Logic, VLSI
+
 **ML & Computing:** PyTorch, scikit-learn, NumPy, pandas
+
 **Tools:** Git, Linux, Docker, Jupyter, Cadence Virtuoso, Quartus
 
 ## Education
